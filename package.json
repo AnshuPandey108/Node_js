@@ -1,0 +1,26 @@
+{
+  "name": "node_tute",
+  "version": "1.0.0",
+  "description": "a js package",
+  "main": "package.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnshuPandey108/Node_js.git"
+  },
+  "keywords": [
+    "code",
+    "anshu"
+  ],
+  "author": "anshu",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "colors": "^1.4.0",
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0"
+  }
+}
